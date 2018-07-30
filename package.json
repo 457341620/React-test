@@ -2,11 +2,7 @@
   "name": "mypro",
   "version": "1.0.0",
   "description": "",
-<<<<<<< HEAD
-  "main": "webpack.config.js",
-=======
   "main": "index.js",
->>>>>>> 5fcba63... 邵婷婷的第一次提交
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "webpack-dev-server"
