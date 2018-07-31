@@ -1,4 +1,8 @@
-import React from 'react' 
+import React from 'react'
+import  Foodlist from './foodlist'
+import  Sous from './sous'
+import  Banner from './banner'
+
 
 class App extends React.Component{
 	constructor(props){
@@ -9,9 +13,10 @@ class App extends React.Component{
 	render(){
 		return(
 			<div>
-			<h1>hello webpack</h1>
-			
-			<Banner/>
+                <Banner/>
+				<h1>hello webpack</h1>
+                <Sous/>
+				<Foodlist/>
 			</div>
 		)
 	}

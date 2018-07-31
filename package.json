@@ -1,12 +1,8 @@
 {
-  "name": "mypro",
+  "name": "pro",
   "version": "1.0.0",
   "description": "",
-<<<<<<< HEAD
-  "main": "webpack.config.js",
-=======
   "main": "index.js",
->>>>>>> 5fcba63... 邵婷婷的第一次提交
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "webpack-dev-server"
@@ -23,6 +19,7 @@
     "react": "^16.4.1",
     "react-dom": "^16.4.1",
     "style-loader": "^0.21.0",
+    "url-loader": "^1.0.1",
     "webpack": "^4.16.3",
     "webpack-cli": "^3.1.0",
     "webpack-dev-server": "^3.1.5"
